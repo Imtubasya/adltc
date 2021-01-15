@@ -4,7 +4,7 @@ Name		  :	Tubagus Sya'banii
 Youtube		  :	I'am Tubasya
 Instagram	  :	@im.tubasya
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Date              :     2021-01-14 Thursday 08:15:11 WIB
+Date              :     2021-01-16 Saturday 00:15:11 WIB
 Ip Address        :     Null
 City              :     Tangerang City
 Country           :     ID (Indonesian)
