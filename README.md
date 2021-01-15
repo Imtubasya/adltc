@@ -1,4 +1,4 @@
-![Terkey Termux Key](imtubasya.jpg)
+![ADLTC TOOLS](imtubasya.jpg)
 ADLTC TOOLS FOR WEBSITE ( adltc.cc )
 <h3>BY : I'am Tubasya</h3>
 <br>Is a tool for Auto Claim Surf LTC!!
