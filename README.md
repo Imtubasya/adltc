@@ -6,8 +6,8 @@ ADLTC TOOLS FOR WEBSITE ( adltc.cc )
 <h3>Linux / Termux App:</h3>
 <br>Enter the below command in the terminal :
 <br>Install php :
-<br><code>git clone https://github.com/Imtubasya/watch-hours</code>
-<br><code>cd watch-hours</code>
+<br><code>git clone https://github.com/Imtubasya/adltc</code>
+<br><code>cd adltc</code>
 <br>Run :
 <br><code>php bot.php</code>
 <br><code>=> Input code ordered by me <=</code>
